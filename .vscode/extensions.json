@@ -1,0 +1,6 @@
+{
+  "recommendations": [
+    "vitest.explorer",
+    "kingwl.vscode-vitest-runner"
+  ]
+}
